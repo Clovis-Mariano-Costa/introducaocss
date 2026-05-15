@@ -1,17 +1,9 @@
 # Introdução CSS
 
-## Repertório
+Repertório: `introducaocss`
 
-`introducaocss`
+Status: existente
 
-## Status
+Mão na Massa Final — padrão visual, assinatura, governança e orientação obrigatória.
 
-existente
-
-## Fase
-
-Pré-Mão na Massa — Pacote Governança encerrado.
-
-## Finalidade
-
-Organiza o laboratório de introdução ao CSS como material de aprendizado, separando estudo de produção e reforçando segurança de publicação.
+© Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
