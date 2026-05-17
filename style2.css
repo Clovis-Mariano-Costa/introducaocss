@@ -1,0 +1,16 @@
+/* Este é o arquivo CSS criado para cumprir as instruções */
+p {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p1 {
+    color: red;
+    font-size: 40px;
+
+}
+#p2 {
+    color: yellow;
+    font-size: 25px;
+    background: black;
+    
+}
